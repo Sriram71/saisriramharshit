@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sai Sriram Harshit Javvadi — Portfolio
 
 Personal portfolio site. Computer Science graduate (SRM University-AP, 2026)
@@ -130,3 +131,6 @@ For a GitHub Pages project site, set `base` in `vite.config.js` to
 
 Open to full-time roles in Python, machine learning, data engineering, cloud or
 analytics. Available immediately, happy to relocate within India.
+=======
+
+>>>>>>> e838c8e06b52bbf17d3a393e5a4ebebdc514221e

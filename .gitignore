@@ -1,0 +1,21 @@
+node_modules/
+dist/
+.vite/
+
+# Local credentials — never commit
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+vite.config.js.timestamp-*
+
+# reference copy of the pre-rewrite site, not part of the deliverable
+test/Website.original.html
